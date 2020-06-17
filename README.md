@@ -5,3 +5,6 @@
 
 2주차 과제(2020.06.16)
 * [문제 풀이](https://github.com/morecatle/AIExercise/blob/master/Week2.ipynb)
+
+3주차 과제(2020.06.17)
+* [학습률 최적화, 군집 분석 구현 클론 코딩, Cost function 구현](https://github.com/morecatle/AIExercise/blob/master/Week3.ipynb)
