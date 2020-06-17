@@ -9,5 +9,5 @@
 3주차 과제(2020.06.17)
 * [학습률 최적화, 군집 분석 구현 클론 코딩, Cost function 구현](https://github.com/morecatle/AIExercise/blob/master/Week3.ipynb)
 
-4주차 과제(202.06.17)
+4주차 과제(2020.06.17)
 * [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/morecatle/AIExercise/blob/master/Week4.ipynb)
